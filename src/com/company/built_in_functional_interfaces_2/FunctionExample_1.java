@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.function.Function;
 
-public class FunctionExample {
+public class FunctionExample_1 {
 
     public static void example() {
         Map<String, Integer> nameMap = new HashMap<>();

@@ -4,7 +4,7 @@ import java.util.function.BiPredicate;
 import java.util.function.IntPredicate;
 import java.util.function.Predicate;
 
-public class PredicateExample {
+public class PredicateExample_6 {
     public static void predicateExample() {
         Predicate<Integer> integerPredicate = new Predicate<Integer>() {
             @Override

@@ -6,7 +6,7 @@ import java.util.Comparator;
 import java.util.Optional;
 import java.util.stream.Stream;
 
-public class ConvenienceFeatures {
+public class ConvenienceFeatures_7 {
 
     public static void count() {
         Stream<Person> personStream = Stream.of(new Person("A", 19), new Person("A2", 21), new Person("C", 15));

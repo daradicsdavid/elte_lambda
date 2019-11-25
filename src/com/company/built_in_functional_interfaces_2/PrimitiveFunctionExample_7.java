@@ -6,7 +6,7 @@ import java.util.function.DoubleToIntFunction;
 import java.util.function.Function;
 import java.util.function.ToIntFunction;
 
-public class PrimitiveFunctionExample {
+public class PrimitiveFunctionExample_7 {
 
     public static void doubleFunctionExample() {
         DoubleFunction<Integer> doubleFunction = d -> (int) (d * 2);

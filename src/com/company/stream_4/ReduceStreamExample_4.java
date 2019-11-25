@@ -7,7 +7,7 @@ import java.util.function.BiFunction;
 import java.util.function.BinaryOperator;
 import java.util.stream.Stream;
 
-public class ReduceStreamExample {
+public class ReduceStreamExample_4 {
     public static void reduce() {
         Stream<Integer> integerStream = Stream.of(1, 2, 3);
 

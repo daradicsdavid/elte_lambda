@@ -4,7 +4,7 @@ import java.util.*;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
-public class CreateStreamExample {
+public class CreateStreamExample_1 {
 
     public static void simpleExample() {
         Stream<Integer> stream = Stream.of(1, 2, 3);

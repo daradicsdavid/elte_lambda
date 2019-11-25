@@ -5,7 +5,7 @@ import java.util.function.Consumer;
 import java.util.function.IntConsumer;
 import java.util.function.ObjIntConsumer;
 
-public class ConsumerExample {
+public class ConsumerExample_4 {
     public static void consumerExample() {
         Consumer<Integer> consumer = new Consumer<Integer>() {
             @Override

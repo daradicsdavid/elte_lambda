@@ -5,7 +5,7 @@ import java.util.function.IntBinaryOperator;
 import java.util.function.IntUnaryOperator;
 import java.util.function.UnaryOperator;
 
-public class OperatorExample {
+public class OperatorExample_3 {
 
     public static void unaryOperatorExample() {
         UnaryOperator<Integer> unaryOperator = new UnaryOperator<Integer>() {

@@ -7,7 +7,7 @@ import java.util.stream.IntStream;
 import java.util.stream.LongStream;
 import java.util.stream.Stream;
 
-public class MapStreamExample {
+public class MapStreamExample_3 {
 
     public static void mapToObjectExample() {
         IntStream integerStream = IntStream.of(1, 2, 3);

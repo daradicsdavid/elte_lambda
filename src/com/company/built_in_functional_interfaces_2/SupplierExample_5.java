@@ -4,7 +4,7 @@ import java.util.function.IntSupplier;
 import java.util.function.Supplier;
 import java.util.stream.Stream;
 
-public class SupplierExample {
+public class SupplierExample_5 {
 
     public static void simpleSupplier() {
         Supplier<Integer> supplier = new Supplier<Integer>() {

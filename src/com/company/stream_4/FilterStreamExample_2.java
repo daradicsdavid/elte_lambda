@@ -6,7 +6,7 @@ import org.omg.CORBA.PERSIST_STORE;
 import java.util.Optional;
 import java.util.stream.Stream;
 
-public class FilterStreamExample {
+public class FilterStreamExample_2 {
     public static void filterExample() {
         Stream<Person> personStream = Stream.of(new Person("A", 19), new Person("A2", 21), new Person("C", 15));
 
